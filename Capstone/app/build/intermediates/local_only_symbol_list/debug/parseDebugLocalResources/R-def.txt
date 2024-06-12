@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color error
+color primary
+color primarylight
+color white
+drawable greenguard
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_greenguard_background
+id imageView
+id main
+id progressBar2
+layout activity_main
+layout activity_splash
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_greenguard
+mipmap ic_launcher_greenguard_foreground
+mipmap ic_launcher_greenguard_round
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.GreenGuard
+style Theme.GreenGuard
+xml backup_rules
+xml data_extraction_rules
