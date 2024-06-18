@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">GreenGuard</string>
+    <string name="guardians">Guardians</string>
+    <string name="welcome">Welcome!</string>
+    <string name="location">Surabaya, East Java</string>
+    <string name="explore">Explore</string>
+
+    <string name="profile">Profile</string>
+    <string name="Home">Home</string>
+    <string name="news">News</string>
+    <string name="scanner">Scanner</string>
+    <string name="forum">Forum</string>
+
+    <string name="icon_news">News Icon</string>
+    <string name="icon_scanner">Scanner Icon</string>
+    <string name="icon_forum">Forum Icon</string>
+    <string name="txt_pelajari">Yuk Pelajari Penyakit Daun!</string>
+
+    <string name="leaf_image_desc">Gambar Daun</string>
 </resources>

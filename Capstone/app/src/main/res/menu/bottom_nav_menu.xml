@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home"
+        android:title="@string/Home" />
+    <item
+        android:id="@+id/navigation_forum"
+        android:icon="@drawable/baseline_people"
+        android:title="@string/forum" />
+    <item
+        android:id="@+id/navigation_scanner"
+        android:icon="@drawable/baseline_image_search"
+        android:title="@string/scanner" />
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/baseline_newspaper"
+        android:title="@string/news" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_account_circle"
+        android:title="@string/profile" />
+</menu>
