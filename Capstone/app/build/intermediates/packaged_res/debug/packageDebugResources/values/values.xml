@@ -11,12 +11,15 @@
     <string name="btn_login">Login</string>
     <string name="btn_register">Register</string>
     <string name="city">Kota</string>
+    <string name="descriptionForum">Hati-hati dengan penyakit hati</string>
     <string name="description_card_item">Jamur adalah parasit paling umum yang menyebabkan penyakit tanaman. Sebagian besar merupakan tumbuhan mikroskopis (sangat kecil dan hanya dapat dilihat dengan bantuan mikroskop) yang memakan tumbuhan hijau hidup atau bahan organik mati. Ketika mereka menyerang tanaman hidup, timbullah penyakit. Jamur biasanya menghasilkan spora yang bila dibawa ke tanaman dapat menyebabkan infeksi. Spora ini dapat dibawa dari satu tanaman ke tanaman lainnya melalui angin, air, serangga, dan peralatan. Agar spora jamur dapat menimbulkan infeksi baru, diperlukan kelembapan yang cukup dan suhu udara yang tepat. Luka tanaman terkadang juga dibutuhkan sebagai jalan masuk jamur. Penyakit jamur sering terjadi pada musim hujan dan lembab.</string>
     <string name="email_text">Email</string>
     <string name="error_password">Minimal masukkan 8 karakter</string>
     <string name="explore">Explore</string>
     <string name="forum">Forum</string>
     <string name="guardians">Guardians</string>
+    <string name="hintForum">Login dahulu untuk masuk forum</string>
+    <string name="home_news">Bercak daun menjadi lebih populer karena menggunakan pestisida yang mengandung zat CT032</string>
     <string name="icon_forum">Forum Icon</string>
     <string name="icon_news">News Icon</string>
     <string name="icon_scanner">Scanner Icon</string>
@@ -31,6 +34,7 @@
     <string name="profile">Profile</string>
     <string name="register">Register</string>
     <string name="scanner">Scanner</string>
+    <string name="titleName">Ababil Sitohang</string>
     <string name="title_card_item">Kenapa Penyakit Daun?</string>
     <string name="title_login_page">Login GreenGuard</string>
     <string name="title_register_page">Daftar ke GreenGuard</string>

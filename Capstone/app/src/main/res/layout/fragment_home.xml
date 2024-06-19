@@ -95,12 +95,12 @@
                     android:layout_marginStart="8dp"
                     android:layout_marginTop="4dp"
                     android:layout_toEndOf="@id/iconImageView"
-                    android:drawableLeft="@drawable/ic_location"
                     android:drawablePadding="5dp"
                     android:fontFamily="@font/pmedium"
                     android:text="@string/location"
                     android:textColor="#666"
-                    android:textSize="14sp" />
+                    android:textSize="14sp"
+                    app:drawableLeftCompat="@drawable/ic_location" />
 
                 <!-- Explore Button -->
                 <Button
@@ -234,26 +234,28 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/primary"
                 android:orientation="horizontal"
-                android:padding="8dp"
-                android:background="@color/primary">
+                android:padding="8dp">
 
                 <ImageView
                     android:layout_width="0dp"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:src="@drawable/leaf_image"
-                    android:contentDescription="@string/leaf_image_desc" />
+                    android:contentDescription="@string/leaf_image_desc"
+                    android:src="@drawable/leaf_image" />
 
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:paddingStart="16dp"
                     android:fontFamily="@font/plight"
-                    android:text="Bercak daun menjadi populer?"
+                    android:paddingStart="16dp"
+                    android:text="@string/home_news"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
+
+
             </LinearLayout>
 
         </LinearLayout>

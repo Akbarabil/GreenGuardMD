@@ -3344,6 +3344,7 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id descriptionForum
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3401,6 +3402,7 @@ id fixed
 id flip
 id floating
 id forever
+id forumEditTextLayout
 id forumSection
 id fragment_container_view_tag
 id frost
@@ -3610,6 +3612,7 @@ id right_side
 id rounded
 id row_index_key
 id rtl
+id rvForum
 id rv_news
 id save_non_transition_alpha
 id save_overlay_view
@@ -3714,6 +3717,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleName
 id titleTextView
 id title_template
 id toggle
@@ -3898,6 +3902,7 @@ layout fragment_scanner
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout item_card
+layout item_forum
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -4019,6 +4024,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string city
 string clear_text_end_icon_content_description
+string descriptionForum
 string description_card_item
 string dest_title
 string email_text
@@ -4032,6 +4038,8 @@ string fab_transformation_sheet_behavior
 string forum
 string guardians
 string hide_bottom_view_on_scroll_behavior
+string hintForum
+string home_news
 string icon_content_description
 string icon_forum
 string icon_news
@@ -4162,6 +4170,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string titleName
 string title_card_item
 string title_login_page
 string title_register_page

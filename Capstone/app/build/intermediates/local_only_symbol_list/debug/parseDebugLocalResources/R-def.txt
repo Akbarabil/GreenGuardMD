@@ -61,10 +61,12 @@ id card_view
 id cityEditText
 id cityEditTextLayout
 id cityTextView
+id descriptionForum
 id emailEditText
 id emailEditTextLayout
 id emailTextView
 id exploreButton
+id forumEditTextLayout
 id forumSection
 id galo_ges
 id guardiansTextView
@@ -99,6 +101,7 @@ id passwordTextView
 id progressBar
 id progressBar2
 id registerButton
+id rvForum
 id rv_news
 id scannerSection
 id signupButton
@@ -107,6 +110,7 @@ id textViewCardTitle
 id text_open_camera
 id text_pelajari
 id text_upload_photo
+id titleName
 id titleTextView
 id welcomeTextView
 layout activity_login
@@ -119,6 +123,7 @@ layout fragment_news
 layout fragment_profile
 layout fragment_scanner
 layout item_card
+layout item_forum
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_foreground
@@ -132,12 +137,15 @@ string app_name
 string btn_login
 string btn_register
 string city
+string descriptionForum
 string description_card_item
 string email_text
 string error_password
 string explore
 string forum
 string guardians
+string hintForum
+string home_news
 string icon_forum
 string icon_news
 string icon_scanner
@@ -152,6 +160,7 @@ string password
 string profile
 string register
 string scanner
+string titleName
 string title_card_item
 string title_login_page
 string title_register_page
