@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.databinding:viewbinding:8.4.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\2845ecd51530c003c98aa4843f57fa16\transformed\viewbinding-8.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\SITOHANG\.gradle\caches\transforms-4\7984651a874b5195296cb0a0d2cadbec\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\SITOHANG\.gradle\caches\transforms-4\8ad9cb2c9c351b77b8261f32048ad7c9\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
@@ -73,9 +73,13 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\SITOHAN
 		INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:5:5-37:19
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:5:5-37:19
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:5-39:19
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:5-39:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\6a9dbb543c67c2f29c8d0747be75189d\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\6a9dbb543c67c2f29c8d0747be75189d\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SITOHANG\.gradle\caches\transforms-4\261e557a4ffd2d7eb1c1779f6ff78f92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -99,65 +103,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SI
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\SITOHANG\.gradle\caches\transforms-4\8fe70a6576e1175f7a1c3cc1830fef08\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:12:9-41
 	android:fullBackupContent
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:10:9-54
 	tools:ignore
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:14:9-64
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:16:9-64
 	android:roundIcon
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:13:9-54
 	tools:targetApi
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:15:9-29
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:15:9-40
 	android:dataExtractionRules
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:9:9-65
 activity#com.example.greenguard.view.register.RegisterActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:16:9-18:40
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:18:13-37
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:17:13-59
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:19:13-59
 activity#com.example.greenguard.view.login.LoginActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:19:9-21:40
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:20:13-53
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:22:13-53
 activity#com.example.greenguard.view.main.MainActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:22:9-25:52
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:24:9-27:52
 	android:screenOrientation
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:27:13-49
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:23:13-51
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:25:13-51
 activity#com.example.greenguard.view.splash.SplashActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:26:9-36:20
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:28:9-38:20
 	android:screenOrientation
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:31:13-49
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:28:13-36
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:30:13-36
 	tools:ignore
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:30:13-68
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:32:13-68
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:27:13-55
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:29:13-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:36:27-74
 uses-sdk
 INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml

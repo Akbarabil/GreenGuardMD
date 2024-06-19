@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_home_wave">
 
-
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="223dp"

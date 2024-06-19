@@ -76,6 +76,7 @@ id imageView
 id imageView2
 id imageViewCard
 id img_bg_rounded_top
+id linearHome
 id locationTextView
 id loginButton
 id main
