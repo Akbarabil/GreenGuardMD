@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.greenguard.app-mergeDebugResources-29:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.example.greenguard.app-mergeDebugResources-2:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-4\\004b5c6650afce95965544b16e73ebd0\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\fbb4782d0b920ab0db1041d64e74d1ca\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

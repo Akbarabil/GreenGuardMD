@@ -6,9 +6,8 @@
     <color name="primarylight">#B7E0C0</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">GreenGuard</string>
-    <style name="Base.Theme.GreenGuard" parent="Theme.Material3.DayNight.NoActionBar">
-        
-        
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/primary</item>
     </style>
-    <style name="Theme.GreenGuard" parent="Base.Theme.GreenGuard"/>
 </resources>

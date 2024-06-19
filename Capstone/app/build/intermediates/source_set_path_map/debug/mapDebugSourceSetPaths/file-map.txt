@@ -1,34 +1,51 @@
-com.example.greenguard.app-material-1.12.0-0 C:\Users\Asus\.gradle\caches\transforms-4\004b5c6650afce95965544b16e73ebd0\transformed\material-1.12.0\res
-com.example.greenguard.app-drawerlayout-1.1.1-1 C:\Users\Asus\.gradle\caches\transforms-4\03af5ce211be903ca28840a7f72e010b\transformed\drawerlayout-1.1.1\res
-com.example.greenguard.app-core-runtime-2.2.0-2 C:\Users\Asus\.gradle\caches\transforms-4\0dc36395d29866839cd9b1933dbc1619\transformed\core-runtime-2.2.0\res
-com.example.greenguard.app-constraintlayout-2.1.4-3 C:\Users\Asus\.gradle\caches\transforms-4\0fb3108b3025993b4a78d472cabb24e6\transformed\constraintlayout-2.1.4\res
-com.example.greenguard.app-startup-runtime-1.1.1-4 C:\Users\Asus\.gradle\caches\transforms-4\15cdc22f08f73036603c3ae101d00578\transformed\startup-runtime-1.1.1\res
-com.example.greenguard.app-recyclerview-1.1.0-5 C:\Users\Asus\.gradle\caches\transforms-4\1e0ac3c9afd16e792bfaee526525ac67\transformed\recyclerview-1.1.0\res
-com.example.greenguard.app-annotation-experimental-1.4.0-6 C:\Users\Asus\.gradle\caches\transforms-4\2863d248f49cc333dcf861627426cf99\transformed\annotation-experimental-1.4.0\res
-com.example.greenguard.app-coordinatorlayout-1.1.0-7 C:\Users\Asus\.gradle\caches\transforms-4\602abcd8b6e3c999b79766f5da89b810\transformed\coordinatorlayout-1.1.0\res
-com.example.greenguard.app-fragment-1.5.4-8 C:\Users\Asus\.gradle\caches\transforms-4\66b035aac00bdf0e16d68486bf1c514a\transformed\fragment-1.5.4\res
-com.example.greenguard.app-emoji2-views-helper-1.3.0-9 C:\Users\Asus\.gradle\caches\transforms-4\70e83145120ece18e5eacac8b6ab5a34\transformed\emoji2-views-helper-1.3.0\res
-com.example.greenguard.app-core-1.13.1-10 C:\Users\Asus\.gradle\caches\transforms-4\727d22815719188854b4747abe48c79a\transformed\core-1.13.1\res
-com.example.greenguard.app-activity-1.9.0-11 C:\Users\Asus\.gradle\caches\transforms-4\8089f670ad51973c766dd6b19a9bb413\transformed\activity-1.9.0\res
-com.example.greenguard.app-appcompat-resources-1.7.0-12 C:\Users\Asus\.gradle\caches\transforms-4\89bde8104373425b7ef09b93e34b6709\transformed\appcompat-resources-1.7.0\res
-com.example.greenguard.app-appcompat-1.7.0-13 C:\Users\Asus\.gradle\caches\transforms-4\8b930f352c070941581b29a09420ee17\transformed\appcompat-1.7.0\res
-com.example.greenguard.app-emoji2-1.3.0-14 C:\Users\Asus\.gradle\caches\transforms-4\9339bdb9be2eb4c761d273d8e8ecc1d1\transformed\emoji2-1.3.0\res
-com.example.greenguard.app-lifecycle-livedata-core-2.6.2-15 C:\Users\Asus\.gradle\caches\transforms-4\95c02edc170053220982fc08224a74f0\transformed\lifecycle-livedata-core-2.6.2\res
-com.example.greenguard.app-core-ktx-1.13.1-16 C:\Users\Asus\.gradle\caches\transforms-4\a5365972239e707f057e658d3adaf8bd\transformed\core-ktx-1.13.1\res
-com.example.greenguard.app-profileinstaller-1.3.1-17 C:\Users\Asus\.gradle\caches\transforms-4\aef389598844c9138f1a4ff2c1d4ef50\transformed\profileinstaller-1.3.1\res
-com.example.greenguard.app-savedstate-1.2.1-18 C:\Users\Asus\.gradle\caches\transforms-4\b5d778ed725d13e9c4e9de58fd82cb7c\transformed\savedstate-1.2.1\res
-com.example.greenguard.app-lifecycle-livedata-2.6.2-19 C:\Users\Asus\.gradle\caches\transforms-4\b6c0c857631603ddabbc1b653775ecd3\transformed\lifecycle-livedata-2.6.2\res
-com.example.greenguard.app-lifecycle-runtime-2.6.2-20 C:\Users\Asus\.gradle\caches\transforms-4\b99772ca0c002bd3977483742ada90e4\transformed\lifecycle-runtime-2.6.2\res
-com.example.greenguard.app-lifecycle-viewmodel-2.6.2-21 C:\Users\Asus\.gradle\caches\transforms-4\bf3871ce8733682adbb838993fb95ff5\transformed\lifecycle-viewmodel-2.6.2\res
-com.example.greenguard.app-lifecycle-process-2.6.2-22 C:\Users\Asus\.gradle\caches\transforms-4\dcbab8172f78edefdbb9ccc724cdde0b\transformed\lifecycle-process-2.6.2\res
-com.example.greenguard.app-cardview-1.0.0-23 C:\Users\Asus\.gradle\caches\transforms-4\df27b76fb749446c20e9252129d3bee4\transformed\cardview-1.0.0\res
-com.example.greenguard.app-transition-1.5.0-24 C:\Users\Asus\.gradle\caches\transforms-4\e4e68f7f464b5a61d90a6b0473570f5e\transformed\transition-1.5.0\res
-com.example.greenguard.app-viewpager2-1.0.0-25 C:\Users\Asus\.gradle\caches\transforms-4\fd174abf4953e3dde8db3e817aec0b9f\transformed\viewpager2-1.0.0\res
-com.example.greenguard.app-lifecycle-viewmodel-savedstate-2.6.2-26 C:\Users\Asus\.gradle\caches\transforms-4\ff632c3293801e98c40cad0af01a9fe7\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
-com.example.greenguard.app-pngs-27 D:\Mobile Back End\GreenGuardMD\Capstone\app\build\generated\res\pngs\debug
-com.example.greenguard.app-resValues-28 D:\Mobile Back End\GreenGuardMD\Capstone\app\build\generated\res\resValues\debug
-com.example.greenguard.app-packageDebugResources-29 D:\Mobile Back End\GreenGuardMD\Capstone\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.greenguard.app-packageDebugResources-30 D:\Mobile Back End\GreenGuardMD\Capstone\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.greenguard.app-debug-31 D:\Mobile Back End\GreenGuardMD\Capstone\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.greenguard.app-debug-32 D:\Mobile Back End\GreenGuardMD\Capstone\app\src\debug\res
-com.example.greenguard.app-main-33 D:\Mobile Back End\GreenGuardMD\Capstone\app\src\main\res
+com.example.greenguard.app-pngs-0 C:\Capstone\GreenGuardMD\Capstone\app\build\generated\res\pngs\debug
+com.example.greenguard.app-resValues-1 C:\Capstone\GreenGuardMD\Capstone\app\build\generated\res\resValues\debug
+com.example.greenguard.app-packageDebugResources-2 C:\Capstone\GreenGuardMD\Capstone\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.greenguard.app-packageDebugResources-3 C:\Capstone\GreenGuardMD\Capstone\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.greenguard.app-debug-4 C:\Capstone\GreenGuardMD\Capstone\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.greenguard.app-debug-5 C:\Capstone\GreenGuardMD\Capstone\app\src\debug\res
+com.example.greenguard.app-main-6 C:\Capstone\GreenGuardMD\Capstone\app\src\main\res
+com.example.greenguard.app-coordinatorlayout-1.1.0-7 C:\Users\SITOHANG\.gradle\caches\transforms-4\1011d4646b2a9d73c499ab98a89d917f\transformed\coordinatorlayout-1.1.0\res
+com.example.greenguard.app-lifecycle-livedata-core-2.7.0-8 C:\Users\SITOHANG\.gradle\caches\transforms-4\1b97ad1451baf5ff600fefde65f26326\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.greenguard.app-annotation-experimental-1.4.0-9 C:\Users\SITOHANG\.gradle\caches\transforms-4\1ce13a90d8dfe4d8e81afb6a04101c21\transformed\annotation-experimental-1.4.0\res
+com.example.greenguard.app-fragment-1.6.2-10 C:\Users\SITOHANG\.gradle\caches\transforms-4\1f44ec8972206c07f8af86fbc00bc42c\transformed\fragment-1.6.2\res
+com.example.greenguard.app-lifecycle-livedata-2.7.0-11 C:\Users\SITOHANG\.gradle\caches\transforms-4\287003d61abab29ba6ca9b930af3dfc8\transformed\lifecycle-livedata-2.7.0\res
+com.example.greenguard.app-drawerlayout-1.1.1-12 C:\Users\SITOHANG\.gradle\caches\transforms-4\3342e9a557a4bbb21cd85e329da4eb11\transformed\drawerlayout-1.1.1\res
+com.example.greenguard.app-navigation-common-2.7.7-13 C:\Users\SITOHANG\.gradle\caches\transforms-4\3a4a56c16831cc3f63960be90b22b624\transformed\navigation-common-2.7.7\res
+com.example.greenguard.app-core-ktx-1.13.1-14 C:\Users\SITOHANG\.gradle\caches\transforms-4\3f4894f44afac06b2c578bc003b2a773\transformed\core-ktx-1.13.1\res
+com.example.greenguard.app-navigation-ui-ktx-2.7.7-15 C:\Users\SITOHANG\.gradle\caches\transforms-4\4f1f62f3c3e0fbf9c72c70d4499631f5\transformed\navigation-ui-ktx-2.7.7\res
+com.example.greenguard.app-slidingpanelayout-1.2.0-16 C:\Users\SITOHANG\.gradle\caches\transforms-4\58ab703054f54c2da90d31e58584ce51\transformed\slidingpanelayout-1.2.0\res
+com.example.greenguard.app-core-runtime-2.2.0-17 C:\Users\SITOHANG\.gradle\caches\transforms-4\5df00c7f2a7463d5600e220342cbf146\transformed\core-runtime-2.2.0\res
+com.example.greenguard.app-lifecycle-livedata-ktx-2.7.0-18 C:\Users\SITOHANG\.gradle\caches\transforms-4\5e658af7693d0c1f804de236b3d2c801\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.example.greenguard.app-navigation-fragment-ktx-2.7.7-19 C:\Users\SITOHANG\.gradle\caches\transforms-4\626cabbd8edae8f8f897114c237e20b3\transformed\navigation-fragment-ktx-2.7.7\res
+com.example.greenguard.app-appcompat-resources-1.7.0-20 C:\Users\SITOHANG\.gradle\caches\transforms-4\6582cf05effd59cd5541148da66af371\transformed\appcompat-resources-1.7.0\res
+com.example.greenguard.app-core-1.13.1-21 C:\Users\SITOHANG\.gradle\caches\transforms-4\666b6cf8816d81e0b9f4278be99304ef\transformed\core-1.13.1\res
+com.example.greenguard.app-navigation-runtime-2.7.7-22 C:\Users\SITOHANG\.gradle\caches\transforms-4\6a2237cd6864863d1c8220b4928d9af3\transformed\navigation-runtime-2.7.7\res
+com.example.greenguard.app-navigation-runtime-ktx-2.7.7-23 C:\Users\SITOHANG\.gradle\caches\transforms-4\7577ccd4571af692cb79b3d7ed1e4ae0\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.greenguard.app-navigation-common-ktx-2.7.7-24 C:\Users\SITOHANG\.gradle\caches\transforms-4\783cdc6088e240d518a7bd677d168199\transformed\navigation-common-ktx-2.7.7\res
+com.example.greenguard.app-appcompat-1.7.0-25 C:\Users\SITOHANG\.gradle\caches\transforms-4\81f1ece27522d4cc7af809dd6a2d1bd8\transformed\appcompat-1.7.0\res
+com.example.greenguard.app-lifecycle-viewmodel-2.7.0-26 C:\Users\SITOHANG\.gradle\caches\transforms-4\9010d99ee9ef9feed97d2b779e7055c4\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.greenguard.app-profileinstaller-1.3.1-27 C:\Users\SITOHANG\.gradle\caches\transforms-4\9bc32f1cbf45db21cca53c99c41b0432\transformed\profileinstaller-1.3.1\res
+com.example.greenguard.app-lifecycle-viewmodel-ktx-2.7.0-28 C:\Users\SITOHANG\.gradle\caches\transforms-4\9d816eb66620fec542c4fd0252b78f12\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.greenguard.app-viewpager2-1.0.0-29 C:\Users\SITOHANG\.gradle\caches\transforms-4\9da6e31383b7072656b13e1dd0718553\transformed\viewpager2-1.0.0\res
+com.example.greenguard.app-constraintlayout-2.1.4-30 C:\Users\SITOHANG\.gradle\caches\transforms-4\a40eec29b34045670aa095ab59dba843\transformed\constraintlayout-2.1.4\res
+com.example.greenguard.app-lifecycle-process-2.7.0-31 C:\Users\SITOHANG\.gradle\caches\transforms-4\a5bde89701f7d689415dcdaf05a62892\transformed\lifecycle-process-2.7.0\res
+com.example.greenguard.app-activity-1.9.0-32 C:\Users\SITOHANG\.gradle\caches\transforms-4\af122bf95484d2dcdc2f0384cfcbf4d4\transformed\activity-1.9.0\res
+com.example.greenguard.app-activity-ktx-1.9.0-33 C:\Users\SITOHANG\.gradle\caches\transforms-4\b47628be64264e017ab053d439333c94\transformed\activity-ktx-1.9.0\res
+com.example.greenguard.app-lifecycle-runtime-2.7.0-34 C:\Users\SITOHANG\.gradle\caches\transforms-4\b6094cdda3cedbc339b11a79d49dfe1f\transformed\lifecycle-runtime-2.7.0\res
+com.example.greenguard.app-lifecycle-runtime-ktx-2.7.0-35 C:\Users\SITOHANG\.gradle\caches\transforms-4\ba49bad707d6c6d4cb7a7908a8201d8a\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.greenguard.app-lifecycle-livedata-core-ktx-2.7.0-36 C:\Users\SITOHANG\.gradle\caches\transforms-4\c0d18d5968363dd320529c82f36ff4ca\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.example.greenguard.app-lifecycle-viewmodel-savedstate-2.7.0-37 C:\Users\SITOHANG\.gradle\caches\transforms-4\c6b2d21158aa2cd20eabd320dffcde70\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.greenguard.app-emoji2-views-helper-1.3.0-38 C:\Users\SITOHANG\.gradle\caches\transforms-4\c916b5b44101fc2c8dd1ae8a8919b607\transformed\emoji2-views-helper-1.3.0\res
+com.example.greenguard.app-recyclerview-1.1.0-39 C:\Users\SITOHANG\.gradle\caches\transforms-4\caef35cd7fb76613d24197a4586bfe49\transformed\recyclerview-1.1.0\res
+com.example.greenguard.app-navigation-fragment-2.7.7-40 C:\Users\SITOHANG\.gradle\caches\transforms-4\cba92ea5b9f399c94b08174465a4c300\transformed\navigation-fragment-2.7.7\res
+com.example.greenguard.app-cardview-1.0.0-41 C:\Users\SITOHANG\.gradle\caches\transforms-4\d0438ca21c216fd39e03809335459d90\transformed\cardview-1.0.0\res
+com.example.greenguard.app-navigation-ui-2.7.7-42 C:\Users\SITOHANG\.gradle\caches\transforms-4\d24180c737a271d2e924d2ff7b6c403f\transformed\navigation-ui-2.7.7\res
+com.example.greenguard.app-transition-1.5.0-43 C:\Users\SITOHANG\.gradle\caches\transforms-4\d4bb7f3624a9bdb80e779fe89a819f2b\transformed\transition-1.5.0\res
+com.example.greenguard.app-savedstate-1.2.1-44 C:\Users\SITOHANG\.gradle\caches\transforms-4\e147b99ee1f7a42067812fc27c4c5357\transformed\savedstate-1.2.1\res
+com.example.greenguard.app-savedstate-ktx-1.2.1-45 C:\Users\SITOHANG\.gradle\caches\transforms-4\e638f3e13c2802b2afb81b0776da77ae\transformed\savedstate-ktx-1.2.1\res
+com.example.greenguard.app-emoji2-1.3.0-46 C:\Users\SITOHANG\.gradle\caches\transforms-4\ec75f91555467154ea07fd1dc4ebd873\transformed\emoji2-1.3.0\res
+com.example.greenguard.app-window-1.0.0-47 C:\Users\SITOHANG\.gradle\caches\transforms-4\f32c9ec6ff87dfded7cc7a0ec88cf3b7\transformed\window-1.0.0\res
+com.example.greenguard.app-fragment-ktx-1.6.2-48 C:\Users\SITOHANG\.gradle\caches\transforms-4\fbada2b37d5921585e304505dadfc0d2\transformed\fragment-ktx-1.6.2\res
+com.example.greenguard.app-material-1.12.0-49 C:\Users\SITOHANG\.gradle\caches\transforms-4\fbb4782d0b920ab0db1041d64e74d1ca\transformed\material-1.12.0\res
+com.example.greenguard.app-startup-runtime-1.1.1-50 C:\Users\SITOHANG\.gradle\caches\transforms-4\ff4a52c68061e5819dcb0c269c0d91a7\transformed\startup-runtime-1.1.1\res

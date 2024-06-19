@@ -21,7 +21,7 @@ mipmap ic_launcher_greenguard_foreground
 mipmap ic_launcher_greenguard_round
 mipmap ic_launcher_round
 string app_name
+style AppTheme
 style Base.Theme.GreenGuard
-style Theme.GreenGuard
 xml backup_rules
 xml data_extraction_rules
