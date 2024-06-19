@@ -5,7 +5,6 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.dicoding.greenguard.R
 import com.example.greenguard.R
 
 // TODO: Rename parameter arguments, choose names that match

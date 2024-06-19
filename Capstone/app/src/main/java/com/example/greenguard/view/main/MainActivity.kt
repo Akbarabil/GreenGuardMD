@@ -70,14 +70,5 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        binding.login.setOnClickListener {
-            val intent = Intent(this, LoginActivity::class.java)
-            startActivity(intent)
-        }
-
-        binding.register.setOnClickListener {
-            val intent = Intent(this, RegisterActivity::class.java)
-            startActivity(intent)
-        }
     }
 }

@@ -11,6 +11,7 @@
     <string name="btn_login">Login</string>
     <string name="btn_register">Register</string>
     <string name="city">Kota</string>
+    <string name="description_card_item">Jamur adalah parasit paling umum yang menyebabkan penyakit tanaman. Sebagian besar merupakan tumbuhan mikroskopis (sangat kecil dan hanya dapat dilihat dengan bantuan mikroskop) yang memakan tumbuhan hijau hidup atau bahan organik mati. Ketika mereka menyerang tanaman hidup, timbullah penyakit. Jamur biasanya menghasilkan spora yang bila dibawa ke tanaman dapat menyebabkan infeksi. Spora ini dapat dibawa dari satu tanaman ke tanaman lainnya melalui angin, air, serangga, dan peralatan. Agar spora jamur dapat menimbulkan infeksi baru, diperlukan kelembapan yang cukup dan suhu udara yang tepat. Luka tanaman terkadang juga dibutuhkan sebagai jalan masuk jamur. Penyakit jamur sering terjadi pada musim hujan dan lembab.</string>
     <string name="email_text">Email</string>
     <string name="error_password">Minimal masukkan 8 karakter</string>
     <string name="explore">Explore</string>
@@ -21,15 +22,22 @@
     <string name="icon_scanner">Scanner Icon</string>
     <string name="leaf_image_desc">Gambar Daun</string>
     <string name="location">Surabaya, East Java</string>
+    <string name="login">Login</string>
     <string name="message_login_page">Lakukan Login untuk dapat mengakses semua fitur pada GreenGuard</string>
     <string name="name">Nama</string>
     <string name="news">News</string>
+    <string name="open_camera">Open Camera</string>
     <string name="password">Password</string>
     <string name="profile">Profile</string>
+    <string name="register">Register</string>
     <string name="scanner">Scanner</string>
+    <string name="title_card_item">Kenapa Penyakit Daun?</string>
     <string name="title_login_page">Login GreenGuard</string>
     <string name="title_register_page">Daftar ke GreenGuard</string>
     <string name="txt_pelajari">Yuk Pelajari Penyakit Daun!</string>
+    <string name="txt_profile">Please login first so you can use the forum features</string>
+    <string name="txt_scanning">Choose a scanning method!</string>
+    <string name="upload_photo">Upload Photo</string>
     <string name="welcome">Welcome!</string>
     <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
         <item name="android:windowBackground">@color/white</item>

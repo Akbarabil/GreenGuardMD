@@ -6,12 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_home_wave">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="bottom"
-        android:layout_marginTop="130dp"
-        android:src="@drawable/bg_rounded_top" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -23,4 +17,24 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/greenguard" />
 
+    <ImageView
+        android:id="@+id/img_bg_rounded_top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/bg_rounded_top" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_news"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageView2"
+        app:layout_constraintVertical_bias="1.0"
+        tools:listitem="@layout/item_card" />
 </androidx.constraintlayout.widget.ConstraintLayout>
