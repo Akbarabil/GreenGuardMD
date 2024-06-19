@@ -55,4 +55,5 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
 
     implementation(libs.androidx.cardview)
+    implementation ("com.google.android.material:material:1.6.0")
 }

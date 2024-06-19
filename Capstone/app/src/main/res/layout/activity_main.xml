@@ -5,8 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.main.MainActivity"
-    android:background="@drawable/bg_home_wave">
+    android:background="@drawable/bg_home_wave"
+    tools:context=".view.main.MainActivity">
 
     <ImageView
         android:layout_width="match_parent"
@@ -226,23 +226,23 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/primary"
             android:orientation="horizontal"
-            android:padding="8dp"
-            android:background="@color/primary">
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="100dp"
                 android:layout_weight="1"
-                android:src="@drawable/leaf_image"
-                android:contentDescription="@string/leaf_image_desc" />
+                android:contentDescription="@string/leaf_image_desc"
+                android:src="@drawable/leaf_image" />
 
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="2"
-                android:paddingStart="16dp"
                 android:fontFamily="@font/plight"
+                android:paddingStart="16dp"
                 android:text="Bercak daun menjadi populer?"
                 android:textColor="@color/white"
                 android:textSize="16sp" />
@@ -252,16 +252,16 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/secondary"
             android:orientation="horizontal"
-            android:padding="8dp"
-            android:background="@color/secondary">
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="100dp"
                 android:layout_weight="1"
-                android:src="@drawable/leaf_image"
-                android:contentDescription="@string/leaf_image_desc" />
+                android:contentDescription="@string/leaf_image_desc"
+                android:src="@drawable/leaf_image" />
 
             <TextView
                 android:layout_width="0dp"
@@ -272,6 +272,18 @@
                 android:textSize="16sp" />
         </LinearLayout>
 
+        <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="login" />
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="daftar" />
+
     </LinearLayout>
 
     <!-- Bottom Navigation -->
@@ -280,10 +292,10 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="?android:attr/windowBackground"
-        app:menu="@menu/bottom_nav_menu"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:menu="@menu/bottom_nav_menu" />
 
     <TextView
         android:id="@+id/text_pelajari"

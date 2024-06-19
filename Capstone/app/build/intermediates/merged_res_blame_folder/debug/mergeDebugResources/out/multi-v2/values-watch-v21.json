@@ -4,7 +4,7 @@
             "outputFile": "com.example.greenguard.app-mergeDebugResources-2:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\81f1ece27522d4cc7af809dd6a2d1bd8\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\14c641cb3b7cb5b04638347e6524f59a\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

@@ -18,13 +18,19 @@
 
     <string name="leaf_image_desc">Gambar Daun</string>
 
-    //halaman login
-    <string name="title_login_page">Login ke GreenGuard</string>
+<!--    Halaman Login-->
+    <string name="title_login_page">Login GreenGuard</string>
     <string name="message_login_page">Lakukan Login untuk dapat mengakses semua fitur pada GreenGuard</string>
     <string name="email_text">Email</string>
     <string name="password">Password</string>
     <string name="error_password">Minimal masukkan 8 karakter</string>
     <string name="btn_login">Login</string>
     <string name="btn_register">Register</string>
+    
+<!--    Halaman Register-->
+    <string name="title_register_page">Daftar ke GreenGuard</string>
+    <string name="name">Nama</string>
+    <string name="city">Kota</string>
+
 
 </resources>

@@ -1,170 +1,310 @@
 [
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pbold.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pbold.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_leaf_image.png.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\leaf_image.png"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_greenguard_round.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_greenguard_round.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xhdpi_ic_launcher_greenguard.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xhdpi/ic_launcher_greenguard.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xhdpi_ic_launcher_greenguard_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xhdpi/ic_launcher_greenguard_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_ic_launcher_greenguard_background.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\ic_launcher_greenguard_background.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-hdpi_ic_launcher_greenguard_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-hdpi/ic_launcher_greenguard_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-mdpi_ic_launcher_greenguard.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-mdpi\\ic_launcher_greenguard.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_bg_rounded_top.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\bg_rounded_top.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/drawable_greenguard.png.flat",
-        "source": "com.example.greenguard.app-main-6:/drawable/greenguard.png"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xhdpi_ic_launcher_greenguard_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xhdpi\\ic_launcher_greenguard_foreground.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxhdpi_ic_launcher_greenguard_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxhdpi/ic_launcher_greenguard_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pthinitalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pthinitalic.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-mdpi_ic_launcher_greenguard_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-mdpi/ic_launcher_greenguard_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pregular.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pregular.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-hdpi_ic_launcher_greenguard.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-hdpi/ic_launcher_greenguard.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_location.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_location.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_email_24.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxxhdpi_ic_launcher_greenguard_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxxhdpi/ic_launcher_greenguard_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxhdpi_ic_launcher_greenguard_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxhdpi\\ic_launcher_greenguard_round.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-anydpi-v26_ic_launcher_greenguard.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-anydpi-v26/ic_launcher_greenguard.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_psemibolditalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\psemibolditalic.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-mdpi_ic_launcher_greenguard.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-mdpi/ic_launcher_greenguard.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_plightitalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\plightitalic.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/layout_activity_main.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/layout/activity_main.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_people.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_people.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pextrabold.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pextrabold.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/xml_backup_rules.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pmedium.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pmedium.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-hdpi_ic_launcher_greenguard_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-hdpi\\ic_launcher_greenguard_round.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-anydpi-v26_ic_launcher_greenguard_round.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-anydpi-v26/ic_launcher_greenguard_round.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_image_search.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_image_search.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/drawable_ic_launcher_greenguard_background.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/drawable/ic_launcher_greenguard_background.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_plight.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\plight.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-mdpi_ic_launcher_greenguard_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-mdpi/ic_launcher_greenguard_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_name.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_name.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_ic_location.png.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\ic_location.png"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xhdpi_ic_launcher_greenguard_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xhdpi/ic_launcher_greenguard_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pmediumitalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pmediumitalic.ttf"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxxhdpi_ic_launcher_greenguard_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxxhdpi/ic_launcher_greenguard_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-mdpi_ic_launcher_greenguard_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-mdpi\\ic_launcher_greenguard_round.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxhdpi_ic_launcher_greenguard_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxhdpi/ic_launcher_greenguard_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-hdpi_ic_launcher_greenguard.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-hdpi\\ic_launcher_greenguard.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/layout_activity_splash.xml.flat",
-        "source": "com.example.greenguard.app-main-6:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxhdpi_ic_launcher_greenguard.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxhdpi/ic_launcher_greenguard.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_lock.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_lock.xml"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-xxxhdpi_ic_launcher_greenguard.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-xxxhdpi/ic_launcher_greenguard.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxhdpi_ic_launcher_greenguard.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxhdpi\\ic_launcher_greenguard.webp"
     },
     {
-        "merged": "com.example.greenguard.app-debug-4:/mipmap-hdpi_ic_launcher_greenguard_foreground.webp.flat",
-        "source": "com.example.greenguard.app-main-6:/mipmap-hdpi/ic_launcher_greenguard_foreground.webp"
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pextralight.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pextralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_account_circle.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_account_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_psemibold.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\psemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pblack.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pextrabolditalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pextrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xhdpi_ic_launcher_greenguard_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xhdpi\\ic_launcher_greenguard_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_greenguard.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_greenguard.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pthin.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pthin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-mdpi_ic_launcher_greenguard_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-mdpi\\ic_launcher_greenguard_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_greenguard.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_greenguard.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_greenguard_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_greenguard_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.greenguard.app-debug-4:/layout_activity_register.xml.flat",
+        "source": "com.example.greenguard.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-hdpi_ic_launcher_greenguard_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-hdpi\\ic_launcher_greenguard_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_error.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pitalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_greenguard_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_greenguard_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_home.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xxhdpi_ic_launcher_greenguard_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xxhdpi\\ic_launcher_greenguard_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xhdpi_ic_launcher_greenguard.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xhdpi\\ic_launcher_greenguard.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\font_pextralightitalic.ttf.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\font\\pextralightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_logo_putih.png.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\logo_putih.png"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_greenguard.png.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\greenguard.png"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_baseline_newspaper.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\baseline_newspaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-debug-4:\\drawable_bg_home_wave.xml.flat",
+        "source": "C:\\Users\\SITOHANG\\.gradle\\daemon\\8.6\\com.example.greenguard.app-main-6:\\drawable\\bg_home_wave.xml"
     }
 ]

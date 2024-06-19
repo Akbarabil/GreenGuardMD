@@ -28,11 +28,17 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.greenguard.MainActivity"
+            android:name="com.example.greenguard.view.register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.greenguard.view.login.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.greenguard.view.main.MainActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.greenguard.SplashActivity"
+            android:name="com.example.greenguard.view.splash.SplashActivity"
             android:exported="true"
             android:screenOrientation="portrait" >
             <intent-filter>
