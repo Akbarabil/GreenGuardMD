@@ -17,6 +17,8 @@
     <string name="txt_pelajari">Yuk Pelajari Penyakit Daun!</string>
 
     <string name="leaf_image_desc">Gambar Daun</string>
+    <string name="txt_profile">Please login first so you can use the forum features</string>
+    <string name="txt_scanning">Choose a scanning method!</string>
 
 <!--    Halaman Login-->
     <string name="title_login_page">Login GreenGuard</string>
@@ -31,6 +33,11 @@
     <string name="title_register_page">Daftar ke GreenGuard</string>
     <string name="name">Nama</string>
     <string name="city">Kota</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="open_camera">Open Camera</string>
 
 
 </resources>

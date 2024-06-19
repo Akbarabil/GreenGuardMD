@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.scanner.ScannerFragment"
+    android:background="@drawable/bg_home_wave">
+
+    <ImageView
+        android:id="@+id/img_bg_rounded_top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/bg_rounded_top" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="223dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="28dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/greenguard" />
+
+    <TextView
+        android:id="@+id/text_pelajari"
+        android:layout_width="313dp"
+        android:layout_height="53dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="56dp"
+        android:fontFamily="@font/pbold"
+        android:text="@string/txt_scanning"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/img_bg_rounded_top" />
+
+    <LinearLayout
+        android:id="@+id/galo_ges"
+        android:layout_width="288dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="32dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_pelajari">
+
+        <ImageButton
+            android:id="@+id/btn_upload_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/upload_photo"
+            android:padding="16dp"
+            android:src="@drawable/ic_upload"
+            app:layout_constraintHeight_default="wrap"
+            app:layout_constraintWidth_default="wrap" />
+
+        <ImageButton
+            android:id="@+id/btn_open_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/open_camera"
+            android:padding="16dp"
+            android:src="@drawable/ic_camera"
+            app:layout_constraintHeight_default="wrap"
+            app:layout_constraintWidth_default="wrap" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_upload_photo"
+        android:layout_width="128dp"
+        android:layout_height="38dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/plight"
+        android:gravity="center"
+        android:text="@string/upload_photo"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/galo_ges" />
+
+    <TextView
+        android:id="@+id/text_open_camera"
+        android:layout_width="135dp"
+        android:layout_height="39dp"
+        android:layout_gravity="center"
+        android:layout_marginEnd="60dp"
+        android:fontFamily="@font/plight"
+        android:gravity="center"
+        android:text="@string/open_camera"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/galo_ges" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

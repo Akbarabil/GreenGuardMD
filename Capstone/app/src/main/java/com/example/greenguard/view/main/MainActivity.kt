@@ -3,8 +3,11 @@ package com.example.greenguard.view.main
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import com.dicoding.greenguard.fragment.forum.ForumFragment
+import com.dicoding.greenguard.fragment.home.HomeFragment
+import com.dicoding.greenguard.fragment.news.NewsFragment
+import com.dicoding.greenguard.fragment.profile.ProfileFragment
+import com.dicoding.greenguard.fragment.scanner.ScannerFragment
 import com.example.greenguard.R
 import com.example.greenguard.databinding.ActivityMainBinding
 import com.example.greenguard.view.login.LoginActivity
@@ -17,34 +20,50 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)
-        ViewCompat.setOnApplyWindowInsetsListener(binding.root) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+        setContentView(R.layout.activity_main)
+
+        // Set the initial fragment
+        if (savedInstanceState == null) {
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.nav_host_fragment_activity_main, HomeFragment())
+                .commit()
         }
 
-
-        binding.bottomNavigation.setOnNavigationItemSelectedListener { item ->
+        val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottom_navigation)
+        bottomNavigationView.setOnNavigationItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.navigation_home -> {
                     // Navigate to Home
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, HomeFragment())
+                        .commit()
                     true
                 }
                 R.id.navigation_scanner -> {
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, ScannerFragment())
+                        .commit()
                     true
                 }
                 R.id.navigation_forum -> {
                     // Navigate to Forum
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, ForumFragment())
+                        .commit()
                     true
                 }
                 R.id.navigation_news -> {
                     // Navigate to News
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, NewsFragment())
+                        .commit()
                     true
                 }
                 R.id.navigation_profile -> {
                     // Navigate to Profile
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, ProfileFragment())
+                        .commit()
                     true
                 }
                 else -> false
@@ -60,7 +79,5 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, RegisterActivity::class.java)
             startActivity(intent)
         }
-
-
     }
 }
