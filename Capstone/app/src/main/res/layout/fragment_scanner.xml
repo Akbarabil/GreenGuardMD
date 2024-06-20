@@ -40,15 +40,37 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/img_bg_rounded_top" />
 
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_image"
+        android:layout_width="206dp"
+        android:layout_height="185dp"
+        android:layout_marginTop="20dp"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_pelajari">
+
+        <ImageView
+            android:id="@+id/previewImageView"
+            android:layout_width="206dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/picture"
+            app:srcCompat="@drawable/ic_place_holder"
+            tools:ignore="ImageContrastCheck" />
+
+    </androidx.cardview.widget.CardView>
+
     <LinearLayout
         android:id="@+id/galo_ges"
         android:layout_width="288dp"
         android:layout_height="145dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="20dp"
         android:orientation="horizontal"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/text_pelajari">
+        app:layout_constraintEnd_toEndOf="@+id/cv_image"
+        app:layout_constraintStart_toStartOf="@+id/cv_image"
+        app:layout_constraintTop_toBottomOf="@id/cv_image">
 
         <ImageButton
             android:id="@+id/btn_upload_photo"
@@ -77,30 +99,44 @@
     <TextView
         android:id="@+id/text_upload_photo"
         android:layout_width="128dp"
-        android:layout_height="38dp"
+        android:layout_height="33dp"
         android:layout_gravity="center"
-        android:layout_marginStart="68dp"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="1dp"
         android:fontFamily="@font/plight"
         android:gravity="center"
         android:text="@string/upload_photo"
         android:textColor="@color/black"
         android:textSize="16sp"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/galo_ges"
         app:layout_constraintTop_toBottomOf="@+id/galo_ges" />
 
     <TextView
         android:id="@+id/text_open_camera"
-        android:layout_width="135dp"
-        android:layout_height="39dp"
+        android:layout_width="132dp"
+        android:layout_height="32dp"
         android:layout_gravity="center"
-        android:layout_marginEnd="60dp"
+        android:layout_marginTop="1dp"
         android:fontFamily="@font/plight"
         android:gravity="center"
         android:text="@string/open_camera"
         android:textColor="@color/black"
         android:textSize="16sp"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/galo_ges"
+        app:layout_constraintTop_toBottomOf="@+id/galo_ges" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_analyze"
+        android:layout_width="328dp"
+        android:layout_height="49dp"
+        android:layout_marginVertical="46dp"
+        android:layout_marginTop="56dp"
+        android:background="@color/primary"
+        android:backgroundTint="@color/primary"
+        android:text="@string/analyze"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/galo_ges"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="@+id/galo_ges"
         app:layout_constraintTop_toBottomOf="@+id/galo_ges" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

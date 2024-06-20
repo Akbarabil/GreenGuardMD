@@ -16,6 +16,9 @@
         tools:ignore="DiscouragedApi,LockedOrientationActivity"
         tools:targetApi="31">
         <activity
+            android:name=".view.result.ResultActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.register.RegisterActivity"
             android:exported="false" />
         <activity

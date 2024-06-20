@@ -40,6 +40,9 @@
     <string name="register">Register</string>
     <string name="upload_photo">Upload Photo</string>
     <string name="open_camera">Open Camera</string>
+    <string name="picture">Picture</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
 
     <!--    Item Card-->
     <string name="title_card_item">Kenapa Penyakit Daun?</string>
