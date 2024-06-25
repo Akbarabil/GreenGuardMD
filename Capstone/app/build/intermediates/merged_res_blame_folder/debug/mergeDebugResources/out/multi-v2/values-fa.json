@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\c8eeb2fe203fa3c8feea627ab012a2ad\\transformed\\ucrop-2.2.8-native\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,98,160,214,262,308",
+                        "endColumns": "42,61,53,47,45,46",
+                        "endOffsets": "93,155,209,257,303,350"
+                    },
+                    "to": {
+                        "startLines": "119,120,121,122,123,124",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10030,10073,10135,10189,10237,10283",
+                        "endColumns": "42,61,53,47,45,46",
+                        "endOffsets": "10068,10130,10184,10232,10278,10325"
+                    }
+                },
+                {
                     "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\6a9dbb543c67c2f29c8d0747be75189d\\transformed\\material-1.12.0\\res\\values-fa\\values-fa.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",

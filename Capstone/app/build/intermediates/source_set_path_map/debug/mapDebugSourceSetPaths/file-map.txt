@@ -43,9 +43,10 @@ com.example.greenguard.app-lifecycle-livedata-core-2.7.0-41 C:\Users\SITOHANG\.g
 com.example.greenguard.app-navigation-ui-2.7.7-42 C:\Users\SITOHANG\.gradle\caches\transforms-4\9fb882210f98ad23f8f801a063d65c10\transformed\navigation-ui-2.7.7\res
 com.example.greenguard.app-drawerlayout-1.1.1-43 C:\Users\SITOHANG\.gradle\caches\transforms-4\ae1aacb422033fc5a5afb974d7b311a2\transformed\drawerlayout-1.1.1\res
 com.example.greenguard.app-lifecycle-viewmodel-2.7.0-44 C:\Users\SITOHANG\.gradle\caches\transforms-4\c69b4361b8000678bd354c7f4f50d976\transformed\lifecycle-viewmodel-2.7.0\res
-com.example.greenguard.app-emoji2-1.3.0-45 C:\Users\SITOHANG\.gradle\caches\transforms-4\d5a5969d267db5a72fb996046415fb10\transformed\emoji2-1.3.0\res
-com.example.greenguard.app-navigation-ui-ktx-2.7.7-46 C:\Users\SITOHANG\.gradle\caches\transforms-4\dcacbbd6bf9dd9d3a132b0a15f3c301a\transformed\navigation-ui-ktx-2.7.7\res
-com.example.greenguard.app-viewpager2-1.0.0-47 C:\Users\SITOHANG\.gradle\caches\transforms-4\e089ab04191b35ba6f38ac5080c4fa4d\transformed\viewpager2-1.0.0\res
-com.example.greenguard.app-savedstate-1.2.1-48 C:\Users\SITOHANG\.gradle\caches\transforms-4\e975e70143ba943747441e8d907b619f\transformed\savedstate-1.2.1\res
-com.example.greenguard.app-emoji2-views-helper-1.3.0-49 C:\Users\SITOHANG\.gradle\caches\transforms-4\e9c0dbd8def202bfb1ca5b7d1c284285\transformed\emoji2-views-helper-1.3.0\res
-com.example.greenguard.app-recyclerview-1.1.0-50 C:\Users\SITOHANG\.gradle\caches\transforms-4\ea01209ba93f57939dc5e06b2127bf0a\transformed\recyclerview-1.1.0\res
+com.example.greenguard.app-ucrop-2.2.8-native-45 C:\Users\SITOHANG\.gradle\caches\transforms-4\c8eeb2fe203fa3c8feea627ab012a2ad\transformed\ucrop-2.2.8-native\res
+com.example.greenguard.app-emoji2-1.3.0-46 C:\Users\SITOHANG\.gradle\caches\transforms-4\d5a5969d267db5a72fb996046415fb10\transformed\emoji2-1.3.0\res
+com.example.greenguard.app-navigation-ui-ktx-2.7.7-47 C:\Users\SITOHANG\.gradle\caches\transforms-4\dcacbbd6bf9dd9d3a132b0a15f3c301a\transformed\navigation-ui-ktx-2.7.7\res
+com.example.greenguard.app-viewpager2-1.0.0-48 C:\Users\SITOHANG\.gradle\caches\transforms-4\e089ab04191b35ba6f38ac5080c4fa4d\transformed\viewpager2-1.0.0\res
+com.example.greenguard.app-savedstate-1.2.1-49 C:\Users\SITOHANG\.gradle\caches\transforms-4\e975e70143ba943747441e8d907b619f\transformed\savedstate-1.2.1\res
+com.example.greenguard.app-emoji2-views-helper-1.3.0-50 C:\Users\SITOHANG\.gradle\caches\transforms-4\e9c0dbd8def202bfb1ca5b7d1c284285\transformed\emoji2-views-helper-1.3.0\res
+com.example.greenguard.app-recyclerview-1.1.0-51 C:\Users\SITOHANG\.gradle\caches\transforms-4\ea01209ba93f57939dc5e06b2127bf0a\transformed\recyclerview-1.1.0\res

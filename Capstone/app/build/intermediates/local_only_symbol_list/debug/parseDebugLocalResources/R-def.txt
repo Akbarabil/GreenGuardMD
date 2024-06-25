@@ -18,6 +18,7 @@ drawable baseline_newspaper
 drawable baseline_people
 drawable bg_home_wave
 drawable bg_rounded_top
+drawable carbon_result
 drawable daun_dua
 drawable daun_satu
 drawable greenguard
@@ -26,6 +27,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_launcher_greenguard_background
 drawable ic_location
+drawable ic_place_holder
 drawable ic_upload
 drawable leaf_image
 drawable logo_putih
@@ -53,7 +55,7 @@ font pthin
 font pthinitalic
 id bottom_navigation
 id btn_open_camera
-id btn_upload_photo
+id button_analyze
 id button_login
 id button_register
 id cardView
@@ -77,6 +79,7 @@ id iconImageView
 id imageView
 id imageView2
 id imageViewCard
+id imagebutton_upload_photo
 id img_bg_rounded_top
 id linearHome
 id locationTextView
@@ -98,9 +101,12 @@ id newsSection
 id passwordEditText
 id passwordEditTextLayout
 id passwordTextView
+id previewImageView
 id progressBar
 id progressBar2
 id registerButton
+id result_image
+id result_text
 id rvForum
 id rv_news
 id scannerSection
@@ -116,6 +122,7 @@ id welcomeTextView
 layout activity_login
 layout activity_main
 layout activity_register
+layout activity_result
 layout activity_splash
 layout fragment_forum
 layout fragment_home
@@ -133,6 +140,7 @@ mipmap ic_launcher_greenguard_round
 mipmap ic_launcher_round
 navigation mobile_navigation
 string Home
+string analyze
 string app_name
 string btn_login
 string btn_register
@@ -157,8 +165,11 @@ string name
 string news
 string open_camera
 string password
+string picture
 string profile
 string register
+string result
+string result_text
 string scanner
 string titleName
 string title_card_item

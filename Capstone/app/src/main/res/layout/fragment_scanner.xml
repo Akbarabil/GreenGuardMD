@@ -40,27 +40,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/img_bg_rounded_top" />
 
-
-    <androidx.cardview.widget.CardView
-        android:id="@+id/cv_image"
-        android:layout_width="206dp"
-        android:layout_height="185dp"
+    <ImageView
+        android:id="@+id/previewImageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_marginTop="20dp"
-        app:cardCornerRadius="20dp"
-        app:cardElevation="5dp"
+        android:contentDescription="@string/picture"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/text_pelajari">
-
-        <ImageView
-            android:id="@+id/previewImageView"
-            android:layout_width="206dp"
-            android:layout_height="match_parent"
-            android:contentDescription="@string/picture"
-            app:srcCompat="@drawable/ic_place_holder"
-            tools:ignore="ImageContrastCheck" />
-
-    </androidx.cardview.widget.CardView>
+        app:layout_constraintTop_toBottomOf="@id/text_pelajari"
+        app:srcCompat="@drawable/ic_place_holder" />
 
     <LinearLayout
         android:id="@+id/galo_ges"
@@ -68,12 +57,12 @@
         android:layout_height="145dp"
         android:layout_marginTop="20dp"
         android:orientation="horizontal"
-        app:layout_constraintEnd_toEndOf="@+id/cv_image"
-        app:layout_constraintStart_toStartOf="@+id/cv_image"
-        app:layout_constraintTop_toBottomOf="@id/cv_image">
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/previewImageView">
 
         <ImageButton
-            android:id="@+id/btn_upload_photo"
+            android:id="@+id/imagebutton_upload_photo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="16dp"

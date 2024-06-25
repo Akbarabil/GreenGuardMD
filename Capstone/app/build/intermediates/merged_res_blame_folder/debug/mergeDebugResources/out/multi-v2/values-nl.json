@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\c8eeb2fe203fa3c8feea627ab012a2ad\\transformed\\ucrop-2.2.8-native\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,105,170,229,284,333",
+                        "endColumns": "49,64,58,54,48,47",
+                        "endOffsets": "100,165,224,279,328,376"
+                    },
+                    "to": {
+                        "startLines": "119,120,121,122,123,124",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10240,10290,10355,10414,10469,10518",
+                        "endColumns": "49,64,58,54,48,47",
+                        "endOffsets": "10285,10350,10409,10464,10513,10561"
+                    }
+                },
+                {
                     "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\8fe70a6576e1175f7a1c3cc1830fef08\\transformed\\core-1.13.1\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",

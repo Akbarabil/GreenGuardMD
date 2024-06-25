@@ -4,6 +4,23 @@
             "outputFile": "com.example.greenguard.app-mergeDebugResources-2:/values-tr/values-tr.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\c8eeb2fe203fa3c8feea627ab012a2ad\\transformed\\ucrop-2.2.8-native\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,99,168,226,275,325",
+                        "endColumns": "43,68,57,48,49,46",
+                        "endOffsets": "94,163,221,270,320,367"
+                    },
+                    "to": {
+                        "startLines": "119,120,121,122,123,124",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10065,10109,10178,10236,10285,10335",
+                        "endColumns": "43,68,57,48,49,46",
+                        "endOffsets": "10104,10173,10231,10280,10330,10377"
+                    }
+                },
+                {
                     "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\8fe70a6576e1175f7a1c3cc1830fef08\\transformed\\core-1.13.1\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",

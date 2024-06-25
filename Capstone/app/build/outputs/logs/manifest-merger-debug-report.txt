@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [androidx.databinding:viewbinding:8.4.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\2845ecd51530c003c98aa4843f57fa16\transformed\viewbinding-8.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\SITOHANG\.gradle\caches\transforms-4\7984651a874b5195296cb0a0d2cadbec\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\SITOHANG\.gradle\caches\transforms-4\8ad9cb2c9c351b77b8261f32048ad7c9\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
@@ -15,6 +15,7 @@ MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] C:\Users\SITOHANG\.gra
 MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\SITOHANG\.gradle\caches\transforms-4\9fb882210f98ad23f8f801a063d65c10\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\6a9dbb543c67c2f29c8d0747be75189d\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SITOHANG\.gradle\caches\transforms-4\261e557a4ffd2d7eb1c1779f6ff78f92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.8-native] C:\Users\SITOHANG\.gradle\caches\transforms-4\c8eeb2fe203fa3c8feea627ab012a2ad\transformed\ucrop-2.2.8-native\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\8c4a3a28454b02fd26390af21072bf1a\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\14c641cb3b7cb5b04638347e6524f59a\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\e089ab04191b35ba6f38ac5080c4fa4d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -56,6 +57,7 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SITOHANG\.grad
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SITOHANG\.gradle\caches\transforms-4\80c982923fe14fef1226777561b64c46\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SITOHANG\.gradle\caches\transforms-4\603423abeba102443e201a30a4bc3516\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\e0e9b100003ed4be6960245f6537d36d\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\SITOHANG\.gradle\caches\transforms-4\e3b7dd57b62b6e9d94a8617ae21d2f3d\transformed\exifinterface-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\a96a51f85944083d9e48fed09e426c61\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SITOHANG\.gradle\caches\transforms-4\f8d682fe9c2a5c77c94ca97298b50c57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\5cb24878451cf779751840f37a74c7ff\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
@@ -78,8 +80,8 @@ ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:5:
 	android:name
 		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:5-39:19
-INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:5-39:19
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:5-46:19
+INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:7:5-46:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\6a9dbb543c67c2f29c8d0747be75189d\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\6a9dbb543c67c2f29c8d0747be75189d\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SITOHANG\.gradle\caches\transforms-4\261e557a4ffd2d7eb1c1779f6ff78f92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -122,46 +124,60 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SI
 		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:15:9-40
 	android:dataExtractionRules
 		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:9:9-65
-activity#com.example.greenguard.view.register.RegisterActivity
+activity#com.example.greenguard.view.result.ResultActivity
 ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:19:13-59
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:19:13-55
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:21:9-24:71
+	android:screenOrientation
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:22:13-60
+activity#com.example.greenguard.view.register.RegisterActivity
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:26:13-59
 activity#com.example.greenguard.view.login.LoginActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:22:13-53
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:29:13-53
 activity#com.example.greenguard.view.main.MainActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:24:9-27:52
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:31:9-34:52
 	android:screenOrientation
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:27:13-49
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:13-49
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:25:13-51
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:32:13-51
 activity#com.example.greenguard.view.splash.SplashActivity
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:28:9-38:20
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:35:9-45:20
 	android:screenOrientation
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:31:13-49
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:38:13-49
 	android:exported
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:37:13-36
 	tools:ignore
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:32:13-68
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:39:13-68
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:29:13-55
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:36:13-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml:43:27-74
 uses-sdk
 INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Capstone\GreenGuardMD\Capstone\app\src\main\AndroidManifest.xml
@@ -188,6 +204,8 @@ MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gra
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\6a9dbb543c67c2f29c8d0747be75189d\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SITOHANG\.gradle\caches\transforms-4\261e557a4ffd2d7eb1c1779f6ff78f92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SITOHANG\.gradle\caches\transforms-4\261e557a4ffd2d7eb1c1779f6ff78f92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.8-native] C:\Users\SITOHANG\.gradle\caches\transforms-4\c8eeb2fe203fa3c8feea627ab012a2ad\transformed\ucrop-2.2.8-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8-native] C:\Users\SITOHANG\.gradle\caches\transforms-4\c8eeb2fe203fa3c8feea627ab012a2ad\transformed\ucrop-2.2.8-native\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\8c4a3a28454b02fd26390af21072bf1a\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\8c4a3a28454b02fd26390af21072bf1a\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\14c641cb3b7cb5b04638347e6524f59a\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
@@ -270,6 +288,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SITOHANG\.gradle\c
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SITOHANG\.gradle\caches\transforms-4\603423abeba102443e201a30a4bc3516\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\e0e9b100003ed4be6960245f6537d36d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\e0e9b100003ed4be6960245f6537d36d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\SITOHANG\.gradle\caches\transforms-4\e3b7dd57b62b6e9d94a8617ae21d2f3d\transformed\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\SITOHANG\.gradle\caches\transforms-4\e3b7dd57b62b6e9d94a8617ae21d2f3d\transformed\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\a96a51f85944083d9e48fed09e426c61\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SITOHANG\.gradle\caches\transforms-4\a96a51f85944083d9e48fed09e426c61\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SITOHANG\.gradle\caches\transforms-4\f8d682fe9c2a5c77c94ca97298b50c57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41

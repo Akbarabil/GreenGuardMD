@@ -47,6 +47,8 @@ anim nav_default_enter_anim
 anim nav_default_exit_anim
 anim nav_default_pop_enter_anim
 anim nav_default_pop_exit_anim
+anim ucrop_loader_circle_path
+anim ucrop_loader_circle_scale
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1335,6 +1337,22 @@ attr triggerId
 attr triggerReceiver
 attr triggerSlack
 attr ttcIndex
+attr ucrop_artv_ratio_title
+attr ucrop_artv_ratio_x
+attr ucrop_artv_ratio_y
+attr ucrop_aspect_ratio_x
+attr ucrop_aspect_ratio_y
+attr ucrop_circle_dimmed_layer
+attr ucrop_dimmed_color
+attr ucrop_frame_color
+attr ucrop_frame_stroke_size
+attr ucrop_grid_color
+attr ucrop_grid_column_count
+attr ucrop_grid_row_count
+attr ucrop_grid_stroke_size
+attr ucrop_show_frame
+attr ucrop_show_grid
+attr ucrop_show_oval_crop_frame
 attr upDuration
 attr uri
 attr useCompatPadding
@@ -2151,6 +2169,31 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color ucrop_color_active_aspect_ratio
+color ucrop_color_active_controls_color
+color ucrop_color_black
+color ucrop_color_blaze_orange
+color ucrop_color_crop_background
+color ucrop_color_default_crop_frame
+color ucrop_color_default_crop_grid
+color ucrop_color_default_dimmed
+color ucrop_color_default_logo
+color ucrop_color_ebony_clay
+color ucrop_color_heather
+color ucrop_color_inactive_aspect_ratio
+color ucrop_color_inactive_controls_color
+color ucrop_color_progress_wheel_line
+color ucrop_color_statusbar
+color ucrop_color_toolbar
+color ucrop_color_toolbar_widget
+color ucrop_color_white
+color ucrop_color_widget
+color ucrop_color_widget_active
+color ucrop_color_widget_background
+color ucrop_color_widget_rotate_angle
+color ucrop_color_widget_rotate_mid_line
+color ucrop_color_widget_text
+color ucrop_scale_text_view_selector
 color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
@@ -2956,6 +2999,28 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+dimen ucrop_default_crop_frame_stoke_width
+dimen ucrop_default_crop_grid_stoke_width
+dimen ucrop_default_crop_logo_size
+dimen ucrop_default_crop_rect_corner_touch_area_line_length
+dimen ucrop_default_crop_rect_corner_touch_threshold
+dimen ucrop_default_crop_rect_min_size
+dimen ucrop_height_crop_aspect_ratio_text
+dimen ucrop_height_divider_shadow
+dimen ucrop_height_horizontal_wheel_progress_line
+dimen ucrop_height_wrapper_controls
+dimen ucrop_height_wrapper_states
+dimen ucrop_margin_horizontal_wheel_progress_line
+dimen ucrop_margin_top_controls_text
+dimen ucrop_margin_top_widget_text
+dimen ucrop_padding_crop_frame
+dimen ucrop_progress_size
+dimen ucrop_size_dot_scale_text_view
+dimen ucrop_size_wrapper_rotate_button
+dimen ucrop_text_size_controls_text
+dimen ucrop_text_size_widget_text
+dimen ucrop_width_horizontal_wheel_progress_line
+dimen ucrop_width_middle_wheel_progress_line
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -3057,6 +3122,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable carbon_result
 drawable daun_dua
 drawable daun_satu
 drawable design_fab_background
@@ -3087,6 +3153,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_place_holder
 drawable ic_search_black_24
 drawable ic_upload
 drawable indeterminate_static
@@ -3173,6 +3240,25 @@ drawable notify_panel_notification_icon_bg
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable ucrop_crop
+drawable ucrop_ic_angle
+drawable ucrop_ic_crop
+drawable ucrop_ic_crop_unselected
+drawable ucrop_ic_cross
+drawable ucrop_ic_done
+drawable ucrop_ic_next
+drawable ucrop_ic_reset
+drawable ucrop_ic_rotate
+drawable ucrop_ic_rotate_unselected
+drawable ucrop_ic_scale
+drawable ucrop_ic_scale_unselected
+drawable ucrop_rotate
+drawable ucrop_scale
+drawable ucrop_shadow_upside
+drawable ucrop_vector_ic_crop
+drawable ucrop_vector_loader
+drawable ucrop_vector_loader_animated
+drawable ucrop_wrapper_controls_shape
 font pblack
 font pbold
 font pextrabold
@@ -3290,8 +3376,8 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btn_open_camera
-id btn_upload_photo
 id buttonPanel
+id button_analyze
 id button_login
 id button_register
 id cache_measures
@@ -3329,6 +3415,8 @@ id content
 id contentPanel
 id contiguous
 id continuousVelocity
+id controls_shadow
+id controls_wrapper
 id coordinator
 id cos
 id counterclockwise
@@ -3437,6 +3525,12 @@ id image
 id imageView
 id imageView2
 id imageViewCard
+id image_view_crop
+id image_view_logo
+id image_view_state_aspect_ratio
+id image_view_state_rotate
+id image_view_state_scale
+id imagebutton_upload_photo
 id img_bg_rounded_top
 id immediateStop
 id included
@@ -3450,6 +3544,9 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
+id layout_aspect_ratio
+id layout_rotate_wheel
+id layout_scale_wheel
 id left
 id leftToRight
 id legacy
@@ -3491,6 +3588,8 @@ id material_timepicker_view
 id material_value_index
 id matrix
 id menuSection
+id menu_crop
+id menu_loader
 id message
 id messageTextView
 id middle
@@ -3595,6 +3694,7 @@ id pin
 id position
 id postLayout
 id pressed
+id previewImageView
 id progressBar
 id progressBar2
 id progress_circular
@@ -3604,11 +3704,14 @@ id ratio
 id rectangles
 id registerButton
 id report_drawn
+id result_image
+id result_text
 id reverseSawtooth
 id right
 id rightToLeft
 id right_icon
 id right_side
+id rotate_scroll_wheel
 id rounded
 id row_index_key
 id rtl
@@ -3618,6 +3721,7 @@ id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
 id scale
+id scale_scroll_wheel
 id scannerSection
 id screen
 id scroll
@@ -3672,6 +3776,9 @@ id start
 id startHorizontal
 id startToEnd
 id startVertical
+id state_aspect_ratio
+id state_rotate
+id state_scale
 id staticLayout
 id staticPostLayout
 id stop
@@ -3708,6 +3815,9 @@ id text_input_start_icon
 id text_open_camera
 id text_pelajari
 id text_upload_photo
+id text_view_crop
+id text_view_rotate
+id text_view_scale
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3721,6 +3831,8 @@ id titleName
 id titleTextView
 id title_template
 id toggle
+id toolbar
+id toolbar_title
 id top
 id topPanel
 id touch_outside
@@ -3735,6 +3847,9 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id ucrop
+id ucrop_frame
+id ucrop_photobox
 id unchecked
 id uniform
 id unlabeled
@@ -3742,6 +3857,7 @@ id up
 id useLogo
 id vertical_only
 id view_offset_helper
+id view_overlay
 id view_transition
 id view_tree_lifecycle_owner
 id view_tree_on_back_pressed_dispatcher_owner
@@ -3757,6 +3873,10 @@ id withinBounds
 id wrap
 id wrap_content
 id wrap_content_constrained
+id wrapper_controls
+id wrapper_reset_rotate
+id wrapper_rotate_by_angle
+id wrapper_states
 id x_left
 id x_right
 integer abc_config_activityDefaultDur
@@ -3828,6 +3948,7 @@ integer mtrl_view_invisible
 integer mtrl_view_visible
 integer show_password_duration
 integer status_bar_notification_info_maxnum
+integer ucrop_progress_loading_anim_time
 interpolator btn_checkbox_checked_mtrl_animation_interpolator_0
 interpolator btn_checkbox_checked_mtrl_animation_interpolator_1
 interpolator btn_checkbox_unchecked_mtrl_animation_interpolator_0
@@ -3877,6 +3998,7 @@ layout abc_tooltip
 layout activity_login
 layout activity_main
 layout activity_register
+layout activity_result
 layout activity_splash
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3964,7 +4086,15 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout ucrop_activity_photobox
+layout ucrop_aspect_ratio
+layout ucrop_controls
+layout ucrop_fragment_photobox
+layout ucrop_layout_rotate_wheel
+layout ucrop_layout_scale_wheel
+layout ucrop_view
 menu bottom_nav_menu
+menu ucrop_menu_activity
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_greenguard
@@ -4001,6 +4131,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string analyze
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
@@ -4160,8 +4291,11 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string picture
 string profile
 string register
+string result
+string result_text
 string scanner
 string search_menu_title
 string searchbar_scrolling_view_behavior
@@ -4177,6 +4311,14 @@ string title_register_page
 string txt_pelajari
 string txt_profile
 string txt_scanning
+string ucrop_crop
+string ucrop_error_input_data_is_absent
+string ucrop_label_edit_photo
+string ucrop_label_original
+string ucrop_menu_crop
+string ucrop_mutate_exception_hint
+string ucrop_rotate
+string ucrop_scale
 string upload_photo
 string welcome
 style AlertDialog_AppCompat
@@ -5307,6 +5449,12 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style ucrop_ImageViewWidgetIcon
+style ucrop_TextViewCropAspectRatio
+style ucrop_TextViewWidget
+style ucrop_TextViewWidgetText
+style ucrop_WrapperIconState
+style ucrop_WrapperRotateButton
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -5476,5 +5624,7 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
+styleable ucrop_AspectRatioTextView ucrop_artv_ratio_title ucrop_artv_ratio_x ucrop_artv_ratio_y
+styleable ucrop_UCropView ucrop_aspect_ratio_x ucrop_aspect_ratio_y ucrop_circle_dimmed_layer ucrop_dimmed_color ucrop_frame_color ucrop_frame_stroke_size ucrop_grid_color ucrop_grid_column_count ucrop_grid_row_count ucrop_grid_stroke_size ucrop_show_frame ucrop_show_grid ucrop_show_oval_crop_frame
 xml backup_rules
 xml data_extraction_rules

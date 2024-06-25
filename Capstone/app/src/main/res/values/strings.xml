@@ -51,5 +51,6 @@
     <string name="titleName">Ababil Sitohang</string>
     <string name="descriptionForum">Hati-hati dengan penyakit hati</string>
     <string name="hintForum">Login dahulu untuk masuk forum</string>
+    <string name="result_text">Login dahulu untuk masuk forum</string>
 
 </resources>

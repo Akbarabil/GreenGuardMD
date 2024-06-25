@@ -7,6 +7,7 @@
     <color name="secondary">#E6E6E6</color>
     <color name="white">#FFFFFFFF</color>
     <string name="Home">Home</string>
+    <string name="analyze">Analyze</string>
     <string name="app_name">GreenGuard</string>
     <string name="btn_login">Login</string>
     <string name="btn_register">Register</string>
@@ -31,8 +32,11 @@
     <string name="news">News</string>
     <string name="open_camera">Open Camera</string>
     <string name="password">Password</string>
+    <string name="picture">Picture</string>
     <string name="profile">Profile</string>
     <string name="register">Register</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="result_text">Login dahulu untuk masuk forum</string>
     <string name="scanner">Scanner</string>
     <string name="titleName">Ababil Sitohang</string>
     <string name="title_card_item">Kenapa Penyakit Daun?</string>

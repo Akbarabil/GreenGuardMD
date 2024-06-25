@@ -72,6 +72,23 @@
                         "endColumns": "95,102,97,97,102,104,111,100",
                         "endOffsets": "3454,3557,3655,3753,3856,3961,4073,9958"
                     }
+                },
+                {
+                    "source": "C:\\Users\\SITOHANG\\.gradle\\caches\\transforms-4\\c8eeb2fe203fa3c8feea627ab012a2ad\\transformed\\ucrop-2.2.8-native\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,100,163,224,274,320",
+                        "endColumns": "44,62,60,49,45,44",
+                        "endOffsets": "95,158,219,269,315,360"
+                    },
+                    "to": {
+                        "startLines": "119,120,121,122,123,124",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "9963,10008,10071,10132,10182,10228",
+                        "endColumns": "44,62,60,49,45,44",
+                        "endOffsets": "10003,10066,10127,10177,10223,10268"
+                    }
                 }
             ]
         }
